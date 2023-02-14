@@ -13,6 +13,14 @@ const Projects = () => {
                     <p class="project-desc">• Maintains a list of things that needs to be get done .</p>
                     <a href="https://tummeti-sai-ram-kumar.github.io/todolist/"><button>View More <i class="fa-solid fa-arrow-right"></i></button>  </a>
                 </div>
+                <div class="project" data-aos="fade-up">
+                    <p class="project-name">Treasure Hunt</p>
+                    <div class="project-desc">
+                        <p>• Hunt for the treasure , in given time .</p>
+                        <a href="https://tummeti-sai-ram-kumar.github.io/treasure-hunt/"><button>View More <i class="fa-solid fa-arrow-right"></i></button>  </a>
+                    </div>
+                    <a href="https://github.com/Tummeti-Sai-Ram-kumar/Rock-Paper-Scissors"><button>View More <i class="fa-solid fa-arrow-right"></i></button></a>
+                </div>
                 <div class="project"  data-aos="fade-up">
                     <p class="project-name">Assignment Management System</p>
                     <div class="project-desc"><p>• Assignment Management System is developed to maintain a track of marks secured .</p>
